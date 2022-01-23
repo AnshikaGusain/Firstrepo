@@ -1,3 +1,19 @@
 Hello there !! 
 This is Anshika Gusain.
 I have updated it using terminal.
+
+Using 'newfeature' branch instead of 'main' branch
+
+git commands in terminal
+1. git clone <repository http or ssh>
+2. git add <file name>
+3. git add .        (This will add all the files)
+4. git commit -m <message>
+5. git status    (To know the changes or status of repository)
+6. git push	(It will reflect changes in repository)
+7. git pull 	(It will load up-to-date files after changes)
+-------------------------------------------------------------
+To work in another branch
+1. git branch  (Show all the available branches)
+2. git branch <branch name> (Add a new branch)
+3. git checkout <branch name>  (Switch to another branch)
