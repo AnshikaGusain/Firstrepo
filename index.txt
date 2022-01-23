@@ -17,3 +17,5 @@ To work in another branch
 1. git branch  (Show all the available branches)
 2. git branch <branch name> (Add a new branch)
 3. git checkout <branch name>  (Switch to another branch)
+4. git push will not work, use git --set-upstream origin <branch name>
+5. After discussing the changes we can merge new branch in the main branch and delete the new branch.
