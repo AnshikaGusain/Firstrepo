@@ -7,7 +7,9 @@ Using 'newfeature' branch instead of 'main' branch
 git commands in terminal
 1. git clone <repository http or ssh>
 2. git add <file name>
-3. git add .        (This will add all the files)
+3. git add .        (This will stage new and modified, not deleted)
+   git add -A      (This will stage all)
+   git add -u      (This will stage modified and deleted, not new)
 4. git commit -m <message>
 5. git status    (To know the changes or status of repository)
 6. git push	(It will reflect changes in repository)
