@@ -14,6 +14,7 @@ git commands in terminal
 7. git pull 	(It will load up-to-date files after changes)
 8. git diff    (It will show the changes you made)(This command is used before git add.)
 9. git diff --staged (It will show the changes after the file is staged)
+10. git reset <file-name> (It will reset all the commits you made)
 -------------------------------------------------------------
 To work in another branch
 1. git branch  (Show all the available branches)
