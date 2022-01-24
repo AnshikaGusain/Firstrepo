@@ -19,6 +19,7 @@ git commands in terminal
 10. git reset <file-name> (It will reset all the commits you made to the previous commit)
     then, git checkout <file-name>
 11. git log (Show all the commits)
+12. touch .gitignore (All the files included in it will get ignored)
 -------------------------------------------------------------
 To work in another branch
 1. git branch  (Show all the available branches)
@@ -26,5 +27,7 @@ To work in another branch
 3. git checkout <branch name>  (Switch to another branch)
 4. git push will not work, use git --set-upstream origin <branch name>
 5. After discussing the changes we can merge new branch in the main branch and delete the new branch.
+	git branch -d <branch name>   (It will get deleted from your computer not from remote)
+	git push origin --delete <branch-name>  (To delete from remote)
 6. git merge main (It will pull all the changes made in main to the branch)
 ------------------------------------------------------------------
