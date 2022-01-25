@@ -1,0 +1,21 @@
+Command Line commands in git bash
+1. ls		(Show all the things in current directory)
+2. pwd		(Show the name of current directory)
+3. cd		(To the git bash directory)
+4. cd ..	(To previous directory which is one step back)
+5. clear	(clear the terminal)
+6. cd /		(To root directory)
+7. cd ~		(To 
+8. cd <folder/folder/...>
+9. mkdir <folder>	(Make a new folder)
+10. open <folder/file> or for windows : start <folder/file> (open the folder/file)
+11. touch file-name or for windows: echo ""> file-name  (make a new file)
+12. open -a "application-name" or for windows:
+	echo 'alias shortname="/C/Users/anshi/AppData/Local/Programs/Microsoft\VS\Code/Code.exe"'>>~/.bashrc 
+	then type shortname in git bash
+13. open . or for windows: start .  (open the current file or directory you are in)
+14. mv index.html about.html		(rename index.html to about.html)
+15. rm <file>		(Delete the file)
+16. rm -r <folder>	(Delete the folder)
+
+

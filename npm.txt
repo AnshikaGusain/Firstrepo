@@ -1,0 +1,7 @@
+NPM related stuff
+1. npm init		(Make a package.json file)
+2. npm install -g <package-name> (install the package globally)
+3. npm install <package-name>    (install the package locally)
+----------------------------------------------------------------
+If 2 and 3 does not work add sudo to the starting of them
+
