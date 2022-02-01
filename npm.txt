@@ -9,3 +9,7 @@ If 2 and 3 does not work add sudo at the starting of them
 Use browserify :
 browserify script.js>bundle.js
 
+-----------------------------------------------------------------
+React 
+1. npx create-react-app <app name>
+
