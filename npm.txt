@@ -3,6 +3,7 @@ NPM related stuff
 2. npm install -g <package-name> (install the package globally)
 3. npm install <package-name>    (install the package locally)
 4. npm run <scripts property>
+5. npm install <package-name> --save-dev (make package a dependency)
 ----------------------------------------------------------------
 If 2 and 3 does not work add sudo at the starting of them
  

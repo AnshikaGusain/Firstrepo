@@ -1,0 +1,8 @@
+POSTGRESQL in terminal
+
+
+To create database in postgresql
+	createdb -U postgres <database_name>
+
+To open the database
+	psql -U postgres <database_name>
