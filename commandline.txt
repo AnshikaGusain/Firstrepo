@@ -4,8 +4,8 @@ Command Line commands in git bash
 3. cd		(To the git bash directory)
 4. cd ..	(To previous directory which is one step back)
 5. clear	(clear the terminal)
-6. cd /		(To root directory)
-7. cd ~		(To 
+6. cd /		(To /)
+7. cd ~		(To Users root directory)
 8. cd <folder/folder/...>
 9. mkdir <folder>	(Make a new folder)
 10. open <folder/file> or for windows : start <folder/file> (open the folder/file)
@@ -17,5 +17,9 @@ Command Line commands in git bash
 14. mv index.html about.html		(rename index.html to about.html)
 15. rm <file>		(Delete the file)
 16. rm -r <folder>	(Delete the folder)
+17. ctrl+A      cursor points at the starting of command.
+18. ctrl+E	cursor points at the end of command.
+19. ctrl+U	clears the command.
+
 
 
